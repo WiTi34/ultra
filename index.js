@@ -9,7 +9,7 @@ bot.on('ready', function () {
 
 var prefix = "/u"
 
-client.login('NTA5NzU1MjIwMjY4NDE3MDI2.DtX8dA.ss4Kasx_omSW2NBfxkI4Ik0pevs');
+client.login('  ');
 
 if (message.content === '/u help') {
     message.channel.send({
